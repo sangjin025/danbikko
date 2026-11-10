@@ -1,0 +1,232 @@
+{
+  "version": "v0.8",
+  "source": {
+    "file": "protein-drinks-v08.xlsx",
+    "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+    "version": "v0.8"
+  },
+  "weights": {
+    "overall": [
+      30,
+      20,
+      20,
+      30,
+      0
+    ],
+    "protein": [
+      50,
+      30,
+      10,
+      10,
+      0
+    ],
+    "additives": [
+      25,
+      15,
+      20,
+      40,
+      0
+    ],
+    "diet": [
+      20,
+      10,
+      30,
+      15,
+      25
+    ]
+  },
+  "deductions": [
+    {
+      "key": "sucralose",
+      "label": "수크랄로스",
+      "handling": "성분별 1회",
+      "points": 4,
+      "cell": "C5"
+    },
+    {
+      "key": "acesulfameK",
+      "label": "아세설팜칼륨",
+      "handling": "성분별 1회",
+      "points": 4,
+      "cell": "C6"
+    },
+    {
+      "key": "maltitol",
+      "label": "말티톨/말티톨시럽",
+      "handling": "성분별 1회",
+      "points": 8,
+      "cell": "C7"
+    },
+    {
+      "key": "maltodextrin",
+      "label": "말토덱스트린",
+      "handling": "직접 기재된 성분 기준",
+      "points": 4,
+      "cell": "C8"
+    },
+    {
+      "key": "carrageenan",
+      "label": "카라기난",
+      "handling": "원재료에 존재 시 1회",
+      "points": 2,
+      "cell": "C9"
+    },
+    {
+      "key": "emulsifier",
+      "label": "유화제/레시틴",
+      "handling": "기능군 통합 1회",
+      "points": 1,
+      "cell": "C10"
+    },
+    {
+      "key": "syntheticColor",
+      "label": "합성색소",
+      "handling": "기능군 통합 1회",
+      "points": 2,
+      "cell": "C11"
+    },
+    {
+      "key": "sorbitol",
+      "label": "소르비톨/솔비톨",
+      "handling": "성분별 1회",
+      "points": 5,
+      "cell": "C12"
+    },
+    {
+      "key": "mannitol",
+      "label": "만니톨",
+      "handling": "성분별 1회",
+      "points": 5,
+      "cell": "C13"
+    },
+    {
+      "key": "aspartame",
+      "label": "아스파탐",
+      "handling": "성분별 1회",
+      "points": 4,
+      "cell": "C14"
+    },
+    {
+      "key": "saccharin",
+      "label": "사카린",
+      "handling": "성분별 1회",
+      "points": 3,
+      "cell": "C15"
+    },
+    {
+      "key": "gums",
+      "label": "기타 검류·증점제",
+      "handling": "카라기난 제외 검류 통합 1회",
+      "points": 1,
+      "cell": "C16"
+    }
+  ],
+  "curves": {
+    "protein": [
+      [
+        0,
+        0
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        10,
+        8
+      ],
+      [
+        15,
+        12
+      ],
+      [
+        20,
+        16
+      ],
+      [
+        25,
+        18
+      ],
+      [
+        30,
+        20
+      ]
+    ],
+    "sugar": [
+      [
+        0,
+        20
+      ],
+      [
+        1,
+        20
+      ],
+      [
+        3,
+        17
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        12,
+        3
+      ],
+      [
+        15,
+        0
+      ]
+    ],
+    "efficiency": [
+      [
+        0,
+        0
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        10,
+        10
+      ],
+      [
+        13,
+        15
+      ],
+      [
+        17,
+        20
+      ],
+      [
+        20,
+        25
+      ]
+    ]
+  },
+  "normalizers": [
+    100,
+    20,
+    20,
+    30,
+    25
+  ],
+  "additiveBase": 30,
+  "precision": 1,
+  "grades": {
+    "sMin": 85,
+    "sFraction": 0.1,
+    "a": 80,
+    "b": 70,
+    "c": 60,
+    "capTiers": [
+      "overall",
+      "diet"
+    ]
+  }
+}

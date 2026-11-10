@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.yarn/
+*.tsbuildinfo
+test-results/
+playwright-report/
+.env*
+
+.next-e2e/
+
+.next-empty-e2e/

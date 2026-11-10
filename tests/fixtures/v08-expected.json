@@ -1,0 +1,939 @@
+{
+  "source": {
+    "file": "protein-drinks-v08.xlsx",
+    "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+    "version": "v0.8"
+  },
+  "products": [
+    {
+      "id": "v08-01",
+      "additiveScore": 21,
+      "components": {
+        "protein": 20,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 88,
+          "rank": 2,
+          "grade": "S"
+        },
+        "protein": {
+          "score": 92,
+          "rank": 1,
+          "grade": "S"
+        },
+        "additives": {
+          "score": 85.5,
+          "rank": 4,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 93.5,
+          "rank": 2,
+          "grade": "S"
+        }
+      }
+    },
+    {
+      "id": "v08-02",
+      "additiveScore": 21,
+      "components": {
+        "protein": 20,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 88,
+          "rank": 2,
+          "grade": "S"
+        },
+        "protein": {
+          "score": 92,
+          "rank": 1,
+          "grade": "S"
+        },
+        "additives": {
+          "score": 85.5,
+          "rank": 4,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 93.5,
+          "rank": 2,
+          "grade": "S"
+        }
+      }
+    },
+    {
+      "id": "v08-03",
+      "additiveScore": 20,
+      "components": {
+        "protein": 17.6,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 83.4,
+          "rank": 13,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 86.1,
+          "rank": 12,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 81.4,
+          "rank": 13,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 91,
+          "rank": 9,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-04",
+      "additiveScore": 21,
+      "components": {
+        "protein": 20,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 87.4,
+          "rank": 4,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 91,
+          "rank": 3,
+          "grade": "S"
+        },
+        "additives": {
+          "score": 85,
+          "rank": 8,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 93.1,
+          "rank": 4,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-05",
+      "additiveScore": 17,
+      "components": {
+        "protein": 16.8,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 79.9,
+          "rank": 20,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 84.4,
+          "rank": 18,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 77,
+          "rank": 21,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 89.3,
+          "rank": 13,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-06",
+      "additiveScore": 22,
+      "components": {
+        "protein": 18.8,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 87.2,
+          "rank": 5,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 89.5,
+          "rank": 6,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 85.4,
+          "rank": 6,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 93,
+          "rank": 5,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-07",
+      "additiveScore": 24,
+      "components": {
+        "protein": 16,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 88.5,
+          "rank": 1,
+          "grade": "S"
+        },
+        "protein": {
+          "score": 89.5,
+          "rank": 6,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 87.8,
+          "rank": 1,
+          "grade": "S"
+        },
+        "diet": {
+          "score": 94,
+          "rank": 1,
+          "grade": "S"
+        }
+      }
+    },
+    {
+      "id": "v08-08",
+      "additiveScore": 17,
+      "components": {
+        "protein": 16,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 80,
+          "rank": 18,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 84.7,
+          "rank": 15,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 77.2,
+          "rank": 19,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 89.5,
+          "rank": 12,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-09",
+      "additiveScore": 17,
+      "components": {
+        "protein": 16,
+        "sugar": 20,
+        "efficiency": 23.717948717948715
+      },
+      "evaluations": {
+        "overall": {
+          "score": 80,
+          "rank": 18,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 84.7,
+          "rank": 15,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 77.2,
+          "rank": 19,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 88.2,
+          "rank": 15,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-10",
+      "additiveScore": 19,
+      "components": {
+        "protein": 18,
+        "sugar": 20,
+        "efficiency": 22.530864197530864
+      },
+      "evaluations": {
+        "overall": {
+          "score": 82.8,
+          "rank": 14,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 86.3,
+          "rank": 11,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 80.3,
+          "rank": 15,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 88.2,
+          "rank": 15,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-11",
+      "additiveScore": 14,
+      "components": {
+        "protein": 16,
+        "sugar": 20,
+        "efficiency": 23.41269841269841
+      },
+      "evaluations": {
+        "overall": {
+          "score": 77,
+          "rank": 25,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 83.7,
+          "rank": 21,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 73.2,
+          "rank": 25,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 86.4,
+          "rank": 19,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-12",
+      "additiveScore": 16,
+      "components": {
+        "protein": 16,
+        "sugar": 20,
+        "efficiency": 23.41269841269841
+      },
+      "evaluations": {
+        "overall": {
+          "score": 79,
+          "rank": 22,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 84.3,
+          "rank": 19,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 75.8,
+          "rank": 24,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 87.4,
+          "rank": 18,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-13",
+      "additiveScore": 18,
+      "components": {
+        "protein": 16,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 82.5,
+          "rank": 15,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 87.5,
+          "rank": 10,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 79.8,
+          "rank": 17,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 91,
+          "rank": 9,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-14",
+      "additiveScore": 21,
+      "components": {
+        "protein": 20,
+        "sugar": 19.55,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 86.7,
+          "rank": 7,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 90.3,
+          "rank": 5,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 84.3,
+          "rank": 9,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 92.2,
+          "rank": 7,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-15",
+      "additiveScore": 22,
+      "components": {
+        "protein": 18.8,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 87.2,
+          "rank": 5,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 89.5,
+          "rank": 6,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 85.4,
+          "rank": 6,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 93,
+          "rank": 5,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-16",
+      "additiveScore": 21,
+      "components": {
+        "protein": 18.8,
+        "sugar": 17.3,
+        "efficiency": 19.97641509433962
+      },
+      "evaluations": {
+        "overall": {
+          "score": 84.1,
+          "rank": 10,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 88.9,
+          "rank": 9,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 81.9,
+          "rank": 12,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 83.8,
+          "rank": 21,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-17",
+      "additiveScore": 19,
+      "components": {
+        "protein": 18.8,
+        "sugar": 20,
+        "efficiency": 18.372093023255815
+      },
+      "evaluations": {
+        "overall": {
+          "score": 85.4,
+          "rank": 8,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 90.5,
+          "rank": 4,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 82.4,
+          "rank": 11,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 85.7,
+          "rank": 20,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-18",
+      "additiveScore": 21,
+      "components": {
+        "protein": 14.4,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 83.9,
+          "rank": 11,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 86.1,
+          "rank": 12,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 82.6,
+          "rank": 10,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 91.7,
+          "rank": 8,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-19",
+      "additiveScore": 20,
+      "components": {
+        "protein": 16,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 82.4,
+          "rank": 16,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 84.7,
+          "rank": 15,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 80.7,
+          "rank": 14,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 90.6,
+          "rank": 11,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-20",
+      "additiveScore": 18,
+      "components": {
+        "protein": 16.4,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 79,
+          "rank": 22,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 81.6,
+          "rank": 22,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 76.8,
+          "rank": 22,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 88.6,
+          "rank": 14,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-21",
+      "additiveScore": 21,
+      "components": {
+        "protein": 16.4,
+        "sugar": 20,
+        "efficiency": 23.484848484848484
+      },
+      "evaluations": {
+        "overall": {
+          "score": 81.4,
+          "rank": 17,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 81.6,
+          "rank": 22,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 80.3,
+          "rank": 15,
+          "grade": "A"
+        },
+        "diet": {
+          "score": 88.2,
+          "rank": 15,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-22",
+      "additiveScore": 19,
+      "components": {
+        "protein": 16,
+        "sugar": 20,
+        "efficiency": 17.98076923076923
+      },
+      "evaluations": {
+        "overall": {
+          "score": 79.6,
+          "rank": 21,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 81.3,
+          "rank": 24,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 77.8,
+          "rank": 18,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 81.9,
+          "rank": 22,
+          "grade": "B"
+        }
+      }
+    },
+    {
+      "id": "v08-23",
+      "additiveScore": 21,
+      "components": {
+        "protein": 18.4,
+        "sugar": 13,
+        "efficiency": 17.86764705882353
+      },
+      "evaluations": {
+        "overall": {
+          "score": 78.8,
+          "rank": 24,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 85.1,
+          "rank": 14,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 76.8,
+          "rank": 22,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 74.7,
+          "rank": 26,
+          "grade": "B"
+        }
+      }
+    },
+    {
+      "id": "v08-24",
+      "additiveScore": 17,
+      "components": {
+        "protein": 16,
+        "sugar": 13,
+        "efficiency": 17.98076923076923
+      },
+      "evaluations": {
+        "overall": {
+          "score": 73,
+          "rank": 27,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 81.2,
+          "rank": 25,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 70.2,
+          "rank": 26,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 72,
+          "rank": 27,
+          "grade": "B"
+        }
+      }
+    },
+    {
+      "id": "v08-25",
+      "additiveScore": 28,
+      "components": {
+        "protein": 17.6,
+        "sugar": 18.2,
+        "efficiency": 15.416666666666668
+      },
+      "evaluations": {
+        "overall": {
+          "score": 84.8,
+          "rank": 9,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 79.8,
+          "rank": 26,
+          "grade": "B"
+        },
+        "additives": {
+          "score": 86.2,
+          "rank": 3,
+          "grade": "S"
+        },
+        "diet": {
+          "score": 79.5,
+          "rank": 24,
+          "grade": "B"
+        }
+      }
+    },
+    {
+      "id": "v08-26",
+      "additiveScore": 19,
+      "components": {
+        "protein": 20,
+        "sugar": 8,
+        "efficiency": 17.04268292682927
+      },
+      "evaluations": {
+        "overall": {
+          "score": 73.1,
+          "rank": 26,
+          "grade": "B"
+        },
+        "protein": {
+          "score": 83.8,
+          "rank": 20,
+          "grade": "A"
+        },
+        "additives": {
+          "score": 70.1,
+          "rank": 27,
+          "grade": "B"
+        },
+        "diet": {
+          "score": 65.9,
+          "rank": 28,
+          "grade": "C"
+        }
+      }
+    },
+    {
+      "id": "v08-27",
+      "additiveScore": 30,
+      "components": {
+        "protein": 9.6,
+        "sugar": 19.7,
+        "efficiency": 15.416666666666668
+      },
+      "evaluations": {
+        "overall": {
+          "score": 83.9,
+          "rank": 11,
+          "grade": "A"
+        },
+        "protein": {
+          "score": 75.3,
+          "rank": 27,
+          "grade": "B"
+        },
+        "additives": {
+          "score": 87.4,
+          "rank": 2,
+          "grade": "S"
+        },
+        "diet": {
+          "score": 81.2,
+          "rank": 23,
+          "grade": "A"
+        }
+      }
+    },
+    {
+      "id": "v08-28",
+      "additiveScore": 22,
+      "components": {
+        "protein": 18,
+        "sugar": 20,
+        "efficiency": 25
+      },
+      "evaluations": {
+        "overall": {
+          "score": 64.5,
+          "rank": 29,
+          "grade": "C"
+        },
+        "protein": {
+          "score": 51.8,
+          "rank": 30,
+          "grade": "D"
+        },
+        "additives": {
+          "score": 66.6,
+          "rank": 29,
+          "grade": "C"
+        },
+        "diet": {
+          "score": 78,
+          "rank": 25,
+          "grade": "C"
+        }
+      }
+    },
+    {
+      "id": "v08-29",
+      "additiveScore": 29,
+      "components": {
+        "protein": 9.6,
+        "sugar": 1,
+        "efficiency": 4.842105263157895
+      },
+      "evaluations": {
+        "overall": {
+          "score": 65.4,
+          "rank": 28,
+          "grade": "C"
+        },
+        "protein": {
+          "score": 67.6,
+          "rank": 28,
+          "grade": "C"
+        },
+        "additives": {
+          "score": 68.4,
+          "rank": 28,
+          "grade": "C"
+        },
+        "diet": {
+          "score": 42.8,
+          "rank": 29,
+          "grade": "D"
+        }
+      }
+    },
+    {
+      "id": "v08-30",
+      "additiveScore": 28,
+      "components": {
+        "protein": 5.6,
+        "sugar": 0,
+        "efficiency": 2.666666666666667
+      },
+      "evaluations": {
+        "overall": {
+          "score": 59.1,
+          "rank": 30,
+          "grade": "D"
+        },
+        "protein": {
+          "score": 60.2,
+          "rank": 29,
+          "grade": "C"
+        },
+        "additives": {
+          "score": 62.8,
+          "rank": 30,
+          "grade": "C"
+        },
+        "diet": {
+          "score": 36.5,
+          "rank": 30,
+          "grade": "D"
+        }
+      }
+    }
+  ]
+}

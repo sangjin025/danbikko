@@ -1,0 +1,4281 @@
+[
+  {
+    "id": "v08-01",
+    "slug": "v08-01",
+    "type": "RTD",
+    "name": "빙그레 더단백 고함량 드링크 더블초코",
+    "brand": "더단백",
+    "flavor": "더블초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 40,
+      "sugar": 0.8,
+      "calories": 182,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "공식·판매 참고 자료 (세부 성분 미확인)",
+      "url": "https://www.bing.co.kr/news/news_announced_view?anno_idx=321",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://www.bing.co.kr/news/news_announced_view?anno_idx=321",
+        "label": "엑셀 기재 공식·판매 자료",
+        "kind": "reference",
+        "note": "2026-02-03 출시 보도자료; 맛별 전체 원재료·열량·당류는 실물 확인 필요",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/12",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "2026-02-03 출시 보도자료; 맛별 전체 원재료·열량·당류는 실물 확인 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 5,
+      "productId": 1
+    },
+    "scoringInput": {
+      "quality": 90,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-02",
+    "slug": "v08-02",
+    "type": "RTD",
+    "name": "빙그레 더단백 고함량 드링크 다크초코",
+    "brand": "더단백",
+    "flavor": "다크초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 35,
+      "sugar": 0.9,
+      "calories": 168,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "공식·판매 참고 자료 (세부 성분 미확인)",
+      "url": "https://www.bing.co.kr/news/news_announced_view?anno_idx=321",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://www.bing.co.kr/news/news_announced_view?anno_idx=321",
+        "label": "엑셀 기재 공식·판매 자료",
+        "kind": "reference",
+        "note": "2026-02-03 출시 보도자료; 맛별 전체 원재료·열량·당류는 실물 확인 필요",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/11",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "2026-02-03 출시 보도자료; 맛별 전체 원재료·열량·당류는 실물 확인 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 6,
+      "productId": 2
+    },
+    "scoringInput": {
+      "quality": 90,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-03",
+    "slug": "v08-03",
+    "type": "RTD",
+    "name": "남양유업 테이크핏 맥스 초코",
+    "brand": "테이크핏",
+    "flavor": "초코",
+    "volumeMl": 250,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 24,
+      "sugar": 0.7,
+      "calories": 106,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": [
+      "셀룰로스검"
+    ],
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "제조사 제공 판매처 원재료 고시",
+      "url": "https://m.gsshop.com/prd/prd.gs?prdid=1122711218",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://m.gsshop.com/prd/prd.gs?prdid=1122711218",
+        "label": "제조사 제공 판매처 원재료 고시",
+        "kind": "disclosure",
+        "note": "250mL·24g 동일 제품 대조",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/2",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 원재료 고시 대조 기록 · 최신 실물 포장 미대조"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 원재료 고시 대조 기록 · 최신 실물 포장 미대조"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "추가 확인 로그에 명시된 성분만 표시 · 전체 목록 아님"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "셀룰로스검 | 250mL·24g 동일 제품 대조",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 7,
+      "productId": 3
+    },
+    "scoringInput": {
+      "quality": 86,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 1
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums"
+      ],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-04",
+    "slug": "v08-04",
+    "type": "RTD",
+    "name": "매일유업 셀렉스 프로핏 SPORTS 와일드 초코",
+    "brand": "셀렉스",
+    "flavor": "초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 45,
+      "sugar": 0,
+      "calories": 210,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/45",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/45",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 8,
+      "productId": 4
+    },
+    "scoringInput": {
+      "quality": 88,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-05",
+    "slug": "v08-05",
+    "type": "RTD",
+    "name": "일동후디스 하이뮨 액티브 제로 밤티라미수",
+    "brand": "하이뮨",
+    "flavor": "밤티라미수",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 22,
+      "sugar": 0,
+      "calories": 99,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/62",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/62",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 9,
+      "productId": 5
+    },
+    "scoringInput": {
+      "quality": 87,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-06",
+    "slug": "v08-06",
+    "type": "RTD",
+    "name": "랩노쉬 프로틴 드링크 퍼펙트 바나나",
+    "brand": "랩노쉬",
+    "flavor": "바나나",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 27,
+      "sugar": 0,
+      "calories": 125,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/93",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/93",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 10,
+      "productId": 6
+    },
+    "scoringInput": {
+      "quality": 88,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 0,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-07",
+    "slug": "v08-07",
+    "type": "RTD",
+    "name": "매일유업 셀렉스 프로핏 SPORTS WPI 코코넛",
+    "brand": "셀렉스",
+    "flavor": "코코넛",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 0,
+      "calories": 90,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": [
+      "CMC"
+    ],
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "제조사 공식 제품 안내",
+      "url": "https://productguide.maeil.com/products/wpi-e40105ae",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://productguide.maeil.com/products/wpi-e40105ae",
+        "label": "제조사 공식 제품 안내",
+        "kind": "manufacturer",
+        "note": "공식 원재료·영양 확인",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/8",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "sugar": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "calories": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "추가 확인 로그에 명시된 성분만 표시 · 전체 목록 아님"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "CMC | 공식 원재료·영양 확인",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 11,
+      "productId": 7
+    },
+    "scoringInput": {
+      "quality": 95,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 0,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 1
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums"
+      ],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-08",
+    "slug": "v08-08",
+    "type": "RTD",
+    "name": "일동후디스 하이뮨 액티브 제로 바나나",
+    "brand": "하이뮨",
+    "flavor": "바나나",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 0,
+      "calories": 99,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/64",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/64",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 12,
+      "productId": 8
+    },
+    "scoringInput": {
+      "quality": 90,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-09",
+    "slug": "v08-09",
+    "type": "RTD",
+    "name": "일동후디스 하이뮨 액티브 제로 딥초코",
+    "brand": "하이뮨",
+    "flavor": "딥초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 0,
+      "calories": 104,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/66",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/66",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 13,
+      "productId": 9
+    },
+    "scoringInput": {
+      "quality": 90,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-10",
+    "slug": "v08-10",
+    "type": "RTD",
+    "name": "대상웰라이프 뉴케어 올프로틴 고소한맛",
+    "brand": "뉴케어",
+    "flavor": "고소한맛",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 25,
+      "sugar": 0,
+      "calories": 135,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "공식·판매 참고 자료 (세부 성분 미확인)",
+      "url": "https://www.wellife.co.kr/pages/samsunglink_202611",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://www.wellife.co.kr/pages/samsunglink_202611",
+        "label": "엑셀 기재 공식·판매 자료",
+        "kind": "reference",
+        "note": "대상웰라이프 공식몰에 제품 확인. 세부 영양·원재료는 미확인",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/22",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "대상웰라이프 공식몰에 제품 확인. 세부 영양·원재료는 미확인",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 14,
+      "productId": 10
+    },
+    "scoringInput": {
+      "quality": 86,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 0,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 1,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-11",
+    "slug": "v08-11",
+    "type": "RTD",
+    "name": "빙그레 더단백 드링크 초코",
+    "brand": "더단백",
+    "flavor": "초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 0.8,
+      "calories": 105,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": [
+      "셀룰로스검",
+      "구아검",
+      "젤란검"
+    ],
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "제조사 제공 판매처 원재료 고시",
+      "url": "https://www.gsshop.com/prd/prd.gs?prdid=1052972930",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://www.gsshop.com/prd/prd.gs?prdid=1052972930",
+        "label": "제조사 제공 판매처 원재료 고시",
+        "kind": "disclosure",
+        "note": "말토덱스트린 기존 감점 반영 여부 확인",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/1",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "추가 확인 로그에 명시된 성분만 표시 · 전체 목록 아님"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "셀룰로스검·구아검·젤란검 | 말토덱스트린 기존 감점 반영 여부 확인",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 15,
+      "productId": 11
+    },
+    "scoringInput": {
+      "quality": 90,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 1,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 1
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums"
+      ],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-12",
+    "slug": "v08-12",
+    "type": "RTD",
+    "name": "빙그레 더단백 드링크 바나나",
+    "brand": "더단백",
+    "flavor": "바나나",
+    "volumeMl": 250,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 0.7,
+      "calories": 105,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": [
+      "셀룰로스검"
+    ],
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "제조사 제공 판매처 원재료 고시",
+      "url": "https://www.gsshop.com/prd/prd.gs?prdid=1062611201",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://www.gsshop.com/prd/prd.gs?prdid=1062611201",
+        "label": "제조사 제공 판매처 원재료 고시",
+        "kind": "disclosure",
+        "note": "250mL 바나나",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/40",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 원재료 고시 대조 기록 · 최신 실물 포장 미대조"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "추가 확인 로그에 명시된 성분만 표시 · 전체 목록 아님"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "셀룰로스검 | 250mL 바나나",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 16,
+      "productId": 12
+    },
+    "scoringInput": {
+      "quality": 90,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 1
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums"
+      ],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-13",
+    "slug": "v08-13",
+    "type": "RTD",
+    "name": "매일유업 셀렉스 프로핏 SPORTS WPI 초콜릿",
+    "brand": "셀렉스",
+    "flavor": "초콜릿",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 0,
+      "calories": 99,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": [
+      "카라기난",
+      "CMC"
+    ],
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "제조사 공식 영양 + 제공 고시",
+      "url": "https://productguide.maeil.com/products/wpi",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://productguide.maeil.com/products/wpi",
+        "label": "제조사 공식 영양 + 제공 고시",
+        "kind": "manufacturer",
+        "note": "원재료는 매일유업 제공 판매처 고시도 대조",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/35",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "sugar": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "calories": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "추가 확인 로그에 명시된 성분만 표시 · 전체 목록 아님"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "CMC; 카라기난 별도 감점 | 원재료는 매일유업 제공 판매처 고시도 대조",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 17,
+      "productId": 13
+    },
+    "scoringInput": {
+      "quality": 95,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 1,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 1
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums",
+        "carrageenan"
+      ],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-14",
+    "slug": "v08-14",
+    "type": "RTD",
+    "name": "남양유업 테이크핏 익스트림 고소한맛",
+    "brand": "테이크핏",
+    "flavor": "고소한맛",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 60,
+      "sugar": 1.3,
+      "calories": 259,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "공식·판매 참고 자료 (세부 성분 미확인)",
+      "url": "https://company.namyangi.com/ko/promotion/board/report/detail?bbsSn=1034",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://company.namyangi.com/ko/promotion/board/report/detail?bbsSn=1034",
+        "label": "엑셀 기재 공식·판매 자료",
+        "kind": "reference",
+        "note": "2026-05-19 출시 보도자료: BCAA 11000mg, EAA 23000mg, 당류 1g대(정확 수치 미확인)",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/21",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "2026-05-19 출시 보도자료: BCAA 11000mg, EAA 23000mg, 당류 1g대(정확 수치 미확인)",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 18,
+      "productId": 14
+    },
+    "scoringInput": {
+      "quality": 87,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-15",
+    "slug": "v08-15",
+    "type": "RTD",
+    "name": "랩노쉬 프로틴 드링크 퍼펙트 곡물",
+    "brand": "랩노쉬",
+    "flavor": "곡물",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 27,
+      "sugar": 0,
+      "calories": 125,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/92",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/92",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 19,
+      "productId": 15
+    },
+    "scoringInput": {
+      "quality": 88,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 0,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-16",
+    "slug": "v08-16",
+    "type": "RTD",
+    "name": "오리온 닥터유 PRO 27g 바나나",
+    "brand": "닥터유",
+    "flavor": "바나나",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 27,
+      "sugar": 2.8,
+      "calories": 159,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/10",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/10",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 20,
+      "productId": 16
+    },
+    "scoringInput": {
+      "quality": 90,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-17",
+    "slug": "v08-17",
+    "type": "RTD",
+    "name": "오리온 닥터유 PRO 27g 초코",
+    "brand": "닥터유",
+    "flavor": "초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 27,
+      "sugar": 1,
+      "calories": 172,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "공식·판매 참고 자료 (세부 성분 미확인)",
+      "url": "https://dryoumall.com/category/%EB%8B%A5%ED%84%B0%EC%9C%A0-%ED%94%84%EB%A1%9C/50",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://dryoumall.com/category/%EB%8B%A5%ED%84%B0%EC%9C%A0-%ED%94%84%EB%A1%9C/50",
+        "label": "엑셀 기재 공식·판매 자료",
+        "kind": "reference",
+        "note": "닥터유 공식 판매몰에 27g 초코 표기; 원재료·당류·열량 공식 상세 추가 확인 필요",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/112",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "닥터유 공식 판매몰에 27g 초코 표기; 원재료·당류·열량 공식 상세 추가 확인 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 21,
+      "productId": 17
+    },
+    "scoringInput": {
+      "quality": 92,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 1,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-18",
+    "slug": "v08-18",
+    "type": "RTD",
+    "name": "칼로바이 프로틴 스파클링 포도",
+    "brand": "칼로바이",
+    "flavor": "포도",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 18,
+      "sugar": 0,
+      "calories": 85,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/119",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/119",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 22,
+      "productId": 18
+    },
+    "scoringInput": {
+      "quality": 95,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-19",
+    "slug": "v08-19",
+    "type": "RTD",
+    "name": "매일유업 셀렉스 프로핏 완전단백질 딸기초코",
+    "brand": "셀렉스",
+    "flavor": "딸기초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 0,
+      "calories": 100,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": [
+      "젤란검",
+      "CMC"
+    ],
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "제조사 공식 제품 안내",
+      "url": "https://productguide.maeil.com/products/op-04acfe840ba2",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://productguide.maeil.com/products/op-04acfe840ba2",
+        "label": "제조사 공식 제품 안내",
+        "kind": "manufacturer",
+        "note": "공식 원재료·영양 확인",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/38",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "sugar": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "calories": {
+          "status": "document-official",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 공식 영양 확인 기록 · 이번 반입에서 외부 재검증하지 않음"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "추가 확인 로그에 명시된 성분만 표시 · 전체 목록 아님"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "젤란검·CMC | 공식 원재료·영양 확인",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 23,
+      "productId": 19
+    },
+    "scoringInput": {
+      "quality": 88,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 1
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums"
+      ],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-20",
+    "slug": "v08-20",
+    "type": "RTD",
+    "name": "롯데칠성 오트몬드 프로틴 쿠키앤크림",
+    "brand": "오트몬드",
+    "flavor": "쿠키앤크림",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 21,
+      "sugar": 0,
+      "calories": 103,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": [
+      "구아검",
+      "젤란검",
+      "카라기난",
+      "CMC"
+    ],
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "판매처 제품 원재료 고시",
+      "url": "https://www.ssg.com/item/itemView.ssg?itemId=1000702355856&salestrNo=2037&siteNo=6001",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://www.ssg.com/item/itemView.ssg?itemId=1000702355856&salestrNo=2037&siteNo=6001",
+        "label": "판매처 제품 원재료 고시",
+        "kind": "disclosure",
+        "note": "혼합제제 안 카라기난 확인",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/104",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "추가 확인 로그에 명시된 성분만 표시 · 전체 목록 아님"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "구아검·CMC·젤란검; 카라기난 별도 감점 | 혼합제제 안 카라기난 확인",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 24,
+      "productId": 20
+    },
+    "scoringInput": {
+      "quality": 82,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 1,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 1
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums",
+        "carrageenan"
+      ],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-21",
+    "slug": "v08-21",
+    "type": "RTD",
+    "name": "CJ 얼티브 프로틴 고소한맛",
+    "brand": "얼티브",
+    "flavor": "고소한맛",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 21,
+      "sugar": 0,
+      "calories": 110,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/87",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/87",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 25,
+      "productId": 21
+    },
+    "scoringInput": {
+      "quality": 80,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-22",
+    "slug": "v08-22",
+    "type": "RTD",
+    "name": "대상웰라이프 뉴케어 올프로틴 식물성 고소한맛",
+    "brand": "뉴케어",
+    "flavor": "고소한맛",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 0,
+      "calories": 130,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/81",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/81",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 26,
+      "productId": 22
+    },
+    "scoringInput": {
+      "quality": 82,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 0,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 1,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": "B",
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-23",
+    "slug": "v08-23",
+    "type": "RTD",
+    "name": "서울우유 프로틴 에너지 초코",
+    "brand": "서울우유",
+    "flavor": "초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 26,
+      "sugar": 5,
+      "calories": 170,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/27",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/27",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 27,
+      "productId": 23
+    },
+    "scoringInput": {
+      "quality": 88,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 0,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-24",
+    "slug": "v08-24",
+    "type": "RTD",
+    "name": "일동후디스 하이뮨 액티브 쿠키앤크림",
+    "brand": "하이뮨",
+    "flavor": "쿠키앤크림",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 20,
+      "sugar": 5,
+      "calories": 130,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/61",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/61",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 28,
+      "productId": 24
+    },
+    "scoringInput": {
+      "quality": 90,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 1,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-25",
+    "slug": "v08-25",
+    "type": "RTD",
+    "name": "연세우유 연세두유 고단백 PRO 플레인",
+    "brand": "연세두유",
+    "flavor": "플레인",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 24,
+      "sugar": 2.2,
+      "calories": 180,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": [
+      "레시틴",
+      "카복시메틸셀룰로스나트륨(CMC)"
+    ],
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "제조사 제공 판매처 원재료 고시",
+      "url": "https://www.gsshop.com/prd/prd.gs?prdid=1129069008",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://www.gsshop.com/prd/prd.gs?prdid=1129069008",
+        "label": "제조사 제공 판매처 원재료 고시",
+        "kind": "disclosure",
+        "note": "기존 가정에서 누락된 레시틴 유화제(-1) 추가",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/129",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "추가 확인 로그에 명시된 성분만 표시 · 전체 목록 아님"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "카복시메틸셀룰로스나트륨(CMC), 레시틴 | 기존 가정에서 누락된 레시틴 유화제(-1) 추가",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 29,
+      "productId": 25
+    },
+    "scoringInput": {
+      "quality": 70,
+      "flags": {
+        "sucralose": 0,
+        "acesulfameK": 0,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 1
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums",
+        "emulsifier"
+      ],
+      "gradeCap": "B",
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-26",
+    "slug": "v08-26",
+    "type": "RTD",
+    "name": "함소아제약 미니언즈 프로틴액트 초코",
+    "brand": "미니언즈 프로틴액트",
+    "flavor": "초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 30,
+      "sugar": 8,
+      "calories": 205,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/28",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/28",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 30,
+      "productId": 26
+    },
+    "scoringInput": {
+      "quality": 87,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 1,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-27",
+    "slug": "v08-27",
+    "type": "RTD",
+    "name": "매일유업 매일두유 고단백 플레인",
+    "brand": "매일두유",
+    "flavor": "플레인",
+    "volumeMl": 190,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 12,
+      "sugar": 1.2,
+      "calories": 90,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": [
+      "알룰로스"
+    ],
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "판매처 제조사 제공 원재료 고시",
+      "url": "https://www.costco.co.kr/Foods/Beverages/Soy-MilkMilk/Maeil-Soymilk-Protein-Plain-190ml-x-24/p/693917",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://www.costco.co.kr/Foods/Beverages/Soy-MilkMilk/Maeil-Soymilk-Protein-Plain-190ml-x-24/p/693917",
+        "label": "판매처 제조사 제공 원재료 고시",
+        "kind": "disclosure",
+        "note": "190mL·12g 동일 제품",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/15",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "원재료 고시 대조 (포장 미대조)",
+      "fields": {
+        "protein": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 원재료 고시 대조 기록 · 최신 실물 포장 미대조"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 원재료 고시 대조 기록 · 최신 실물 포장 미대조"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "document-disclosure",
+          "sourceIds": [
+            "primary"
+          ],
+          "note": "제공 엑셀의 원재료 고시 대조 기록 · 최신 실물 포장 미대조"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "확인된 대상 성분 없음 (알룰로스 무감점) | 190mL·12g 동일 제품",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 31,
+      "productId": 27
+    },
+    "scoringInput": {
+      "quality": 82,
+      "flags": {
+        "sucralose": 0,
+        "acesulfameK": 0,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 0,
+        "syntheticColor": 0,
+        "sorbitol": 0,
+        "mannitol": 0,
+        "aspartame": 0,
+        "saccharin": 0,
+        "gums": 0
+      },
+      "confirmedFlags": [
+        "sorbitol",
+        "mannitol",
+        "aspartame",
+        "saccharin",
+        "gums"
+      ],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-28",
+    "slug": "v08-28",
+    "type": "RTD",
+    "name": "남양유업 테이크핏 프로 레몬",
+    "brand": "테이크핏",
+    "flavor": "레몬",
+    "volumeMl": 450,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 25,
+      "sugar": 0,
+      "calories": 100,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "공식·판매 참고 자료 (세부 성분 미확인)",
+      "url": "https://company.namyangi.com/ko/promotion/board/report/detail?bbsSn=849",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "primary",
+        "url": "https://company.namyangi.com/ko/promotion/board/report/detail?bbsSn=849",
+        "label": "엑셀 기재 공식·판매 자료",
+        "kind": "reference",
+        "note": "중요: 공식 2025-11 리뉴얼은 500mL, 기존 시험자료는 450mL. 이 행 전체 점수는 구버전 참고치이며 신버전 평가 금지. 공식 제품 페이지는 450mL이나 2025-11-11 리뉴얼 보도자료는 전 제품 500mL. 최신 실물 라벨 필수. 원료: https://company.namyangi.com/ko/bran",
+        "checkedAt": null
+      },
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/7",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "구버전 시험자료 450ml · 500ml 리뉴얼과 구별"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "중요: 공식 2025-11 리뉴얼은 500mL, 기존 시험자료는 450mL. 이 행 전체 점수는 구버전 참고치이며 신버전 평가 금지. 공식 제품 페이지는 450mL이나 2025-11-11 리뉴얼 보도자료는 전 제품 500mL. 최신 실물 라벨 필수. 원료: https://company.namyangi.com/ko/bran",
+      "legacy": true,
+      "legacyNote": "구버전 450ml 시험 평가 · 500ml 리뉴얼 제품의 평가가 아닙니다.",
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 32,
+      "productId": 28
+    },
+    "scoringInput": {
+      "quality": 15,
+      "flags": {
+        "sucralose": 1,
+        "acesulfameK": 1,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 0,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": "C",
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-29",
+    "slug": "v08-29",
+    "type": "RTD",
+    "name": "매일유업 셀렉스 프로틴 음료 오리지널",
+    "brand": "셀렉스",
+    "flavor": "오리지널",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 12,
+      "sugar": 14,
+      "calories": 190,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/46",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/46",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 33,
+      "productId": 29
+    },
+    "scoringInput": {
+      "quality": 86,
+      "flags": {
+        "sucralose": 0,
+        "acesulfameK": 0,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 0,
+        "emulsifier": 1,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "v08-30",
+    "slug": "v08-30",
+    "type": "RTD",
+    "name": "매일유업 허쉬 초콜릿 드링크 프로틴 초콜릿",
+    "brand": "허쉬",
+    "flavor": "초콜릿",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": 8,
+      "sugar": 27,
+      "calories": 180,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "leucineMg": null,
+    "source": {
+      "label": "기존 2차 시험자료",
+      "url": "https://foodbench.dailylab.app/product/53",
+      "checkedAt": null,
+      "verified": false
+    },
+    "sources": [
+      {
+        "id": "secondary",
+        "url": "https://foodbench.dailylab.app/product/53",
+        "label": "기존 2차 시험자료",
+        "kind": "secondary",
+        "note": "공식 확인값으로 간주하지 않음",
+        "checkedAt": null
+      }
+    ],
+    "verification": {
+      "ingredientStatus": "기존 시험자료만 (신규성분 미확인)",
+      "fields": {
+        "protein": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "sugar": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "calories": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "엑셀에 기록된 시험값 · 공식 검증 전"
+        },
+        "volume": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "proteinSources": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "ingredients": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "sweeteners": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "additives": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "leucine": {
+          "status": "unknown",
+          "sourceIds": [],
+          "note": "제공 자료에서 확인되지 않음"
+        },
+        "quality": {
+          "status": "trial",
+          "sourceIds": [
+            "secondary"
+          ],
+          "note": "원료품질 가정 점수이며 실제 단백질 원료명이 아님"
+        }
+      },
+      "note": "제조사 공식몰 또는 최신 실물 라벨 확보 필요",
+      "legacy": false,
+      "legacyNote": null,
+      "ingredientListComplete": false
+    },
+    "workbook": {
+      "file": "protein-drinks-v08.xlsx",
+      "sha256": "163ca127865498f14b4af8d489eeb3e8865a4e9891de866e1c6c526e3ecd46a8",
+      "version": "v0.8",
+      "sheet": "30개_4티어",
+      "row": 34,
+      "productId": 30
+    },
+    "scoringInput": {
+      "quality": 85,
+      "flags": {
+        "sucralose": 0,
+        "acesulfameK": 0,
+        "maltitol": 0,
+        "maltodextrin": 0,
+        "carrageenan": 1,
+        "emulsifier": 0,
+        "syntheticColor": 0,
+        "sorbitol": null,
+        "mannitol": null,
+        "aspartame": null,
+        "saccharin": null,
+        "gums": null
+      },
+      "confirmedFlags": [],
+      "gradeCap": null,
+      "status": "trial"
+    },
+    "evaluations": {}
+  }
+]

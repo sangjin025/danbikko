@@ -1,0 +1,181 @@
+[
+  {
+    "id": "test-1",
+    "slug": "test-1",
+    "type": "RTD",
+    "name": "테스트 전용 음료 A",
+    "brand": "검증용 데이터 · 실제 제품 아님",
+    "flavor": "테스트 초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": null,
+      "sugar": 0,
+      "calories": null,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "source": {
+      "label": "테스트용 데이터 (실제 제품 아님)",
+      "url": null,
+      "checkedAt": null,
+      "verified": false
+    },
+    "evaluations": {
+      "overall": {
+        "score": 80,
+        "grade": "테스트 등급",
+        "rank": 2,
+        "reasons": [
+          "UI 표시 검증용 결과. 실제 평가 산식과 무관합니다."
+        ],
+        "ruleVersion": "TEST-ONLY"
+      },
+      "protein": {
+        "score": 95,
+        "grade": "테스트 등급",
+        "rank": 1,
+        "reasons": null,
+        "ruleVersion": "TEST-ONLY"
+      }
+    }
+  },
+  {
+    "id": "test-2",
+    "slug": "test-2",
+    "type": "RTD",
+    "name": "테스트 전용 음료 B",
+    "brand": "검증용 데이터 · 실제 제품 아님",
+    "flavor": "테스트 바닐라",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": null,
+      "sugar": null,
+      "calories": null,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "source": {
+      "label": "테스트용 데이터 (실제 제품 아님)",
+      "url": null,
+      "checkedAt": null,
+      "verified": false
+    },
+    "evaluations": {
+      "overall": {
+        "score": 90,
+        "grade": "테스트 등급",
+        "rank": 1,
+        "reasons": [
+          "UI 표시 검증용 결과. 실제 평가 산식과 무관합니다."
+        ],
+        "ruleVersion": "TEST-ONLY"
+      },
+      "protein": {
+        "score": 70,
+        "grade": "테스트 등급",
+        "rank": 2,
+        "reasons": null,
+        "ruleVersion": "TEST-ONLY"
+      }
+    }
+  },
+  {
+    "id": "test-3",
+    "slug": "test-3",
+    "type": "RTD",
+    "name": "테스트 전용 음료 C",
+    "brand": "검증용 데이터 · 실제 제품 아님",
+    "flavor": "테스트 초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": null,
+      "sugar": null,
+      "calories": null,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "source": {
+      "label": "테스트용 데이터 (실제 제품 아님)",
+      "url": null,
+      "checkedAt": null,
+      "verified": false
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "test-4",
+    "slug": "test-4",
+    "type": "RTD",
+    "name": "테스트 전용 음료 D",
+    "brand": "검증용 데이터 · 실제 제품 아님",
+    "flavor": "테스트 바닐라",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": null,
+      "sugar": null,
+      "calories": null,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "source": {
+      "label": "테스트용 데이터 (실제 제품 아님)",
+      "url": null,
+      "checkedAt": null,
+      "verified": false
+    },
+    "evaluations": {}
+  },
+  {
+    "id": "test-5",
+    "slug": "test-5",
+    "type": "RTD",
+    "name": "테스트 전용 음료 E",
+    "brand": "검증용 데이터 · 실제 제품 아님",
+    "flavor": "테스트 초코",
+    "volumeMl": null,
+    "image": null,
+    "nutrition": {
+      "basis": null,
+      "protein": null,
+      "sugar": null,
+      "calories": null,
+      "fat": null,
+      "sodium": null
+    },
+    "proteinSources": null,
+    "sweeteners": null,
+    "additives": null,
+    "ingredients": null,
+    "source": {
+      "label": "테스트용 데이터 (실제 제품 아님)",
+      "url": null,
+      "checkedAt": null,
+      "verified": false
+    },
+    "evaluations": {}
+  }
+]
